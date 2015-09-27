@@ -1,7 +1,7 @@
 {
   "swagger" : "2.0",
   "info" : {
-    "description" : "Test",
+    "description" : "Testing a long description",
     "version" : "1.0",
     "title" : "Testing",
     "x-swaggerhub-info" : { }
