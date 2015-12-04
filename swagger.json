@@ -1,10 +1,9 @@
 {
   "swagger" : "2.0",
   "info" : {
-    "description" : "Testing a long description",
-    "version" : "1.0",
-    "title" : "Testing",
-    "x-swaggerhub-info" : { }
+    "version" : "1.0.0",
+    "title" : "Test API",
+    "description" : "Test API Description"
   },
   "paths" : { }
 }
